@@ -1,1 +1,5 @@
-# demo_bulmaWebsite
+# Getting Started
+npm install
+
+npm start
+
